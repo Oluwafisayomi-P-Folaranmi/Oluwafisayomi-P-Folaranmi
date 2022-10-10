@@ -25,12 +25,16 @@ Here are some ideas to get you started:
 
 My name is Oluwafisayomi Posi Folaranmi
 
-| Rank | Languages  |
-|-----:|------------|
-|     1| C++        |
-|     2| Java       |
-|     3| Python     |
-|     4| JavaScript |
+<details>
+  <summary>This is a list of my technical skills, yah, I told you'll I am technically tactical</summary>
+  | Rank | Languages  |
+  |-----:|------------|
+  |     1| C++        |
+  |     2| Java       |
+  |     3| Python     |
+  |     4| JavaScript |
+</details>
+
 
 
 
