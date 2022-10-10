@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-My name is Oluwafisayomi Posi Folaranmi
+My name is Oluwafisayomi Folaranmi
 
 <details>
 <summary>This is a list of my technical skills, yah, I told you'll I am technically tactical</summary>
@@ -40,7 +40,7 @@ My name is Oluwafisayomi Posi Folaranmi
 ---
 > If we pull together and commit ourselves, then we can push through anything.
 
-— Mona the Octocat
+— Oluwafisayomi Folaranmi
 
 
 
