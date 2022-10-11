@@ -30,10 +30,9 @@ My name is Oluwafisayomi Folaranmi
 
 | Rank | Languages  
 |-----:|------------|
-|     1| C++        |
-|     2| Java       |
+|     1| Java       |
+|     2| C++        |
 |     3| Python     |
-|     4| JavaScript |
 
 </details>
 
