@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **Backend Development.**
+- 👯 I’m looking to collaborate on **Backend Development, Software Engineering and Development, Financial Software.**
 
 - 🤝 I’m looking for help with **DSA**
 
-- 💬 Ask me about **Object Oriented Analysis, Modeling, and Design;**
+- 💬 Ask me about **Object Oriented Analysis, Modeling, and Design, Backend Development, Software Engineering and Development, Financial Software, Data Structures and Algorithm Network Programming.,;**
 
 - 📫 How to reach me **folaranmifisayo@gmail.com**
 
