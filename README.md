@@ -1,7 +1,12 @@
 ### Hi there 👋, thanks for branching
 
 <h1 align="center">Hi 👋, I'm Oluwafisayomi Folaranmi</h1>
-<h3 align="center">A passionate software engineer from Lagos, Nigeria.</h3>
+<h3 align="center">A passionate software engineer from Lagos, Nigeria.</h3> 
+<h3 align="center">Oluwafisayomi is currently pursuing a Bachelor's Degree in Chemical Engineering at the University of Lagos, Akoka, Yaba Lagos, Nigeria.</h1>
+
+<h3 align="center">He is also a student at ALX Holberton School of Software Engineering, where he's had to put to good use his spirit of team work while collaborating on projects with colleagues. ( “The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.“ )</h1>
+
+<h3 align="center">When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends.</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **ALX Software Engineering Projects.**
