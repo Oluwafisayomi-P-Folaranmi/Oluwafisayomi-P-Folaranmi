@@ -21,8 +21,8 @@
 
 - 💬 Ask me about **Object Oriented Analysis, Modeling, and Design, Backend Development, Software Engineering and Development, Financial Software, Data Structures and Algorithm Network Programming.,;**
 
-- 📫 How to reach me **folaranmifisayo@gmail.com**
-- 📫 How to reach me **folaranmifisayomi@gmail.com**
+- 📫 How to reach me **folaranmifisayo@gmail.com, folaranmifisayomi@gmail.com**
+- 📫 How to reach me **folaranmi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
