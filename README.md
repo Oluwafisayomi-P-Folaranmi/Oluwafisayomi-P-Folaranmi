@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **Backend Development, Software Engineering and Development**
+- 👯 I’m looking to collaborate on **APIs, Backend Development, Software Engineering and Development**
 
 
 
