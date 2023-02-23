@@ -15,11 +15,11 @@
 
 - 👯 I’m looking to collaborate on **APIs, Backend Development, Software Engineering and Development**
 
-
+- 
 
 - 🤝 I'm looking to collaborate on **Android, Desktop**
 
-- 💬 Ask me about **Object Oriented Analysis, Modeling, and Design, Backend Development, Software Engineering and Development, Financial Software, Data Structures and Algorithm Network Programming.,;**
+- 💬 Ask me about **Financial Technology, Algorithm Trading Technology, Business Technology**
 
 - 📫 How to reach me **folaranmifisayo@gmail.com, folaranmifisayomi@gmail.com**
 
