@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **ALX Software Engineering Projects.**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **Backend Development, Software Engineering and Development, Financial Software.**
+- 👯 I’m looking to collaborate on **Backend Development, Software Engineering and Development**
 
 
 
