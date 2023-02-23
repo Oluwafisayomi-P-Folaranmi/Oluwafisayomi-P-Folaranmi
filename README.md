@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **APIs, Backend Development, Software Engineering and Development**
+- 👯 I’m looking to collaborate on **APIs, Backend Development, Software Engineering and Development.**
 
-- 🎈 I'm available for projects on **Data Structures and Algorithm, Networking, Object Oriented Analysis, Design, and 
+- 🎈 I'm available for projects on **Data Structures and Algorithm, Networking, Object Oriented Analysis, Design, and Programming.**
 
-- 🤝 I'm looking to collaborate on **Android, Desktop**
+- 🤝 I'm looking to collaborate on **Android, and Desktop.**
 
-- 💬 Ask me about **Financial Technology, Algorithm Trading Technology, Business Technology**
+- 💬 Ask me about **Financial Technology, Algorithm Trading Technology, Business Technology.**
 
 - 📫 How to reach me **folaranmifisayo@gmail.com, folaranmifisayomi@gmail.com**
 
