@@ -4,7 +4,7 @@
 <h3 align="center">A passionate software engineer from Lagos, Nigeria.</h3> 
 <p align="left">Oluwafisayomi is currently pursuing a Bachelor's Degree in Chemical Engineering at the University of Lagos, Akoka, Yaba Lagos, Nigeria.</p>
 
-<p align="left">He is also a student at ALX Holberton School of Software Engineering, where he's had to put to good use his spirit of team work while collaborating on projects with colleagues. ( “The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.“ )</p>
+<p align="left">He is also a student at ALX Holberton School of Software Engineering, where he's had to put to good use his spirit of team work while collaborating on projects with colleagues. [“The ALX Holberton Software Engineering programme is a 12-month (70 hours/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.“]</p>
 
 <p align="left">When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **APIs, Backend Development, Software Engineering and Development.**
 
-- 🎈 I'm available for projects on **Data Structures and Algorithm, Networking, Object Oriented Analysis, Design, and Programming.**
+- 🎈 I'm available for projects on **Data Science, Data Structures and Algorithm, Networking, Object Oriented Analysis, Design, and Programming.**
 
 - 🤝 I'm looking to collaborate on **Android, and Desktop.**
 
