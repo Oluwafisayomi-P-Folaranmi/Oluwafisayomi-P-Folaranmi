@@ -15,7 +15,9 @@
 
 - 👯 I’m looking to collaborate on **Backend Development, Software Engineering and Development, Financial Software.**
 
-- 🤝 I’m looking for help with **DSA**
+
+
+- 🤝 I'm looking to collaborate on **Android, Desktop**
 
 - 💬 Ask me about **Object Oriented Analysis, Modeling, and Design, Backend Development, Software Engineering and Development, Financial Software, Data Structures and Algorithm Network Programming.,;**
 
