@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **APIs, Backend Development, Software Engineering and Development**
 
-- 
+- 🎈 I'm available for projects on **Data Structures and Algorithm, Networking, Object Oriented Analysis, Design, and 
 
 - 🤝 I'm looking to collaborate on **Android, Desktop**
 
