@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Oluwafisayomi Folaranmi</h1>
+<h1 align="center">Hi 👋, I'm Oluwafisayomi Posi Folaranmi</h1>
 <h3 align="center">A passionate software engineer from Lagos, Nigeria.</h3> 
 <p align="left">Oluwafisayomi is currently pursuing a Bachelor's Degree in Chemical Engineering at the University of Lagos, Akoka, Yaba Lagos, Nigeria.</p>
 
