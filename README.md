@@ -6,17 +6,29 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <ul>
+
 <li>🔭 I’m currently working on **ALX Software Engineering Projects.**</li>
+
 <li>🌱 I’m currently learning **C++**</li>
+
 <li>👯 I’m looking to collaborate on **APIs, Backend Development, Software Engineering and Development.**</li>
+
 <li>🎈 I'm available for projects on **Data Science, Financial Technology, Algorithm Trading Technology, Business Technology.**</li>
+
 <li>🤝 I'm looking to collaborate on Human-Computer Interaction **Mobile (Android, Desktop)**</li>
+
 <li>💬 Ask me about **Data Structures and Algorithm, Networking, Object Oriented Analysis, Object Oriented Design, and Object Oriented Programming.**</li>
+
 <li>🔭 Worked for/with:</li>
-    <ul>
-    <li>“The **ALX Holberton Software Engineering programme**</li>
-    </ul>
+
+<ul>
+
+<li>“The **ALX Holberton Software Engineering programme**</li>
+
+</ul>
+
 <li>📫 How to reach me **folaranmifisayo@gmail.com, folaranmifisayomi@gmail.com**</li>
+
 </ul>
 
 <h3 align="left">Connect with me:</h3>
