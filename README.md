@@ -1,29 +1,23 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Oluwafisayomi Posi Folaranmi</h1>
 <h3 align="center">A passionate software engineer from Lagos, Nigeria.</h3> 
-<p align="left">Oluwafisayomi is currently pursuing a Bachelor's Degree in Chemical Engineering at the University of Lagos, Akoka, Yaba Lagos, Nigeria.</p>
-
-<p align="left">He is also a student at ALX Holberton School of Software Engineering, where he's had to put to good use his spirit of team work while collaborating on projects with colleagues. [“The ALX Holberton Software Engineering programme is a 12-month (70 hours/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.“]</p>
+<p align="left">Oluwafisayomi is a software engineer currently pursuing a Bachelor's Degree in Chemical Engineering at the University of Lagos, Akoka, Yaba Lagos, Nigeria.</p>
 
 <p align="left">When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **ALX Software Engineering Projects.**
-
-- 🌱 I’m currently learning **C++**
-
-- 👯 I’m looking to collaborate on **APIs, Backend Development, Software Engineering and Development.**
-
-- 🎈 I'm available for projects on **Data Science, Data Structures and Algorithm, Networking, Object Oriented Analysis, Design, and Programming.**
-
-- 🤝 I'm looking to collaborate on **Android, and Desktop.**
-
-- 💬 Ask me about **Financial Technology, Algorithm Trading Technology, Business Technology.**
-
-- 📫 How to reach me **folaranmifisayo@gmail.com, folaranmifisayomi@gmail.com**
-
+<ul>
+<li>🔭 I’m currently working on **ALX Software Engineering Projects.**</li>
+<li>🌱 I’m currently learning **C++**</li>
+<li>👯 I’m looking to collaborate on **APIs, Backend Development, Software Engineering and Development.**</li>
+<li>🎈 I'm available for projects on **Data Science, Financial Technology, Algorithm Trading Technology, Business Technology.**</li>
+<li>🤝 I'm looking to collaborate on Human-Computer Interaction **Mobile (Android, Desktop)**</li>
+<li>💬 Ask me about **Data Structures and Algorithm, Networking, Object Oriented Analysis, Object Oriented Design, and Object Oriented Programming.**</li>
+<li>🔭 Worked for/with:</li>
+    <ul>
+    <li>“The **ALX Holberton Software Engineering programme**</li>
+    </ul>
+<li>📫 How to reach me **folaranmifisayo@gmail.com, folaranmifisayomi@gmail.com**</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
