@@ -5,31 +5,22 @@
 <p align="left">When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<ul>
+- 🔭 I’m currently working on **ALX Software Engineering Projects.**
 
-<li>🔭 I’m currently working on **ALX Software Engineering Projects.**</li>
+- 🌱 I’m currently learning **C++**
 
-<li>🌱 I’m currently learning **C++**</li>
+- 👯 I’m looking to collaborate on **APIs, Backend Development, Software Engineering and Development.**
 
-<li>👯 I’m looking to collaborate on **APIs, Backend Development, Software Engineering and Development.**</li>
+- 🎈 I'm available for projects on **Data Science, Financial Technology, Algorithm Trading Technology, Business Technology.**
 
-<li>🎈 I'm available for projects on **Data Science, Financial Technology, Algorithm Trading Technology, Business Technology.**</li>
+- 🤝 I'm looking to collaborate on Human-Computer Interaction **Mobile (Android, Desktop)**
 
-<li>🤝 I'm looking to collaborate on Human-Computer Interaction **Mobile (Android, Desktop)**</li>
+- 💬 Ask me about **Data Structures and Algorithm, Networking, Object Oriented Analysis, Object Oriented Design, and Object Oriented Programming.**
 
-<li>💬 Ask me about **Data Structures and Algorithm, Networking, Object Oriented Analysis, Object Oriented Design, and Object Oriented Programming.**</li>
+- 🔭 Worked for/with:
+    + “The **ALX Holberton Software Engineering programme**
 
-<li>🔭 Worked for/with:</li>
-
-<ul>
-
-<li>“The **ALX Holberton Software Engineering programme**</li>
-
-</ul>
-
-<li>📫 How to reach me **folaranmifisayo@gmail.com, folaranmifisayomi@gmail.com**</li>
-
-</ul>
+- 📫 How to reach me **folaranmifisayo@gmail.com, folaranmifisayomi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
