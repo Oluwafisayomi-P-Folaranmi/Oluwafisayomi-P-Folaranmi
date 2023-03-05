@@ -5,9 +5,9 @@
 <p align="left">When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **ALX Software Engineering Projects.**
-
-- 🌱 I’m currently learning **C++**
+- 🔭 I’m currently working on: (You know what to do; send me a message if you want to collaborate)
+    + **ALX Holberton Software Engineering Projects.**
+    
 
 - 👯 I’m looking to collaborate on **APIs, Backend Development, Software Engineering and Development.**
 
@@ -15,12 +15,16 @@
 
 - 🤝 I'm looking to collaborate on Human-Computer Interaction **Mobile (Android, Desktop)**
 
-- 💬 Ask me about **Data Structures and Algorithm, Networking, Object Oriented Analysis, Object Oriented Design, and Object Oriented Programming.**
+- 💬 Ask me about: **Data Structures and Algorithm, Networking, Object Oriented Analysis, Object Oriented Design, and Object Oriented Programming.**
 
 - 🔭 Worked for/with:
-    + “The **ALX Holberton Software Engineering programme**
+    + “The **ALX Holberton Software Engineering programme**"
 
 - 📫 How to reach me **folaranmifisayo@gmail.com, folaranmifisayomi@gmail.com**
+
+- 🌱 My mentors are:
+    + ...
+    + Oluwafisayomi P. Folaranmi...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
