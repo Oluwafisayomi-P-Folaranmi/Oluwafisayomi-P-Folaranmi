@@ -2,10 +2,10 @@
 <h3 align="center">...you can call me opf</h3>
 <hr/> 
 
-<p align="left">**opf** is a passionate software engineer from Lagos, Nigeria, currently pursuing a Bachelor's Degree in Chemical Engineering at the University of Lagos, Akoka, Yaba Lagos, Nigeria. When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends.</p> 
+<p align="left">opf is a passionate software engineer from Lagos, Nigeria, currently pursuing a Bachelor's Degree in Chemical Engineering at the University of Lagos, Akoka, Yaba Lagos, Nigeria. When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends.</p> 
 <hr/>
 
-<div align="center"><h3><b>Languages</b></h3></div>                                                  <div align="left">                                                                               
+<div align="center"><h3><b>Languages</b></h3></div>                                                  <div align="center">                                                                               
 <!-- C++ -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;                                                    
 <!-- Java -->
@@ -18,7 +18,7 @@
 </div>
 <hr> 
 
-<div align="center"><h3><b>Tools:</b></h3></div>                                                     <div align="left">
+<div align="center"><h3><b>Tools:</b></h3></div>                                                     <div align="center">
 <!-- Linux -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;                                                        <!-- Vim -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;                                              
@@ -28,8 +28,8 @@
 <!-- Android -->                                                                                     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"  title="Android" alt="Android" width="40" height="40"/>&nbsp;
 </div>                                                                                               <hr/> 
                                                                                                      <div align="center"><h3><b>Social Handles:</b></h3></div>
-<div align="center" id="badges">                                                                       <a href="https://www.linkedin.com/in/ahmed-olawale">
+<div align="center" id="badges">                                                                       <a href="https://www.linkedin.com/in/oluwafisayomi-folaranmi-a6a478205">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://twitter.com/ahmed_olawale1">
+  <a href="https://twitter.com/oluwafisayomif6?t=UER8RwKUILjncRTlcvPcHQ&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div> 
