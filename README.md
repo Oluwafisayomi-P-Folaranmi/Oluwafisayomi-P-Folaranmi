@@ -2,7 +2,7 @@
 <h3 align="center">...you can call me opf</h3>
 <hr/> 
 
-<p align="left">opf is a passionate software engineer from Lagos, Nigeria, currently pursuing a Bachelor's Degree in Chemical Engineering at the University of Lagos, Akoka, Yaba Lagos, Nigeria. When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends.</p> 
+<p align="left">***opf* is a passionate Nigerian software engineer**, currently pursuing a Bachelor's Degree in Chemical Engineering at the University of Lagos, Akoka, Yaba Lagos, Nigeria. When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends.</p> 
 <hr/>
 
 <div align="center"><h3><b>Languages</b></h3></div>                                                  <div align="center">                                                                               
