@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oluwafisayomi Posi Folaranmi</h1>
 <h3 align="center">...you can call me opf</h3>
 
-<p align="left">Opf is a passionate Nigerian software engineer, currently pursuing a Bachelor's Degree in Chemical Engineering at the University of Lagos, Akoka, Yaba Lagos, Nigeria. When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends. Opf is a man of learning.</p> 
+<p align="left">Opf is a passionate Nigerian software engineer, currently pursuing a Bachelor's Degree in Chemical Engineering at the University of Lagos, Akoka, Yaba Lagos, Nigeria. When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends. Opf is a man of learning.</p>
+
+<p>Quote: "The computer does not solve your problem, you must do first, with a good problem-solving process. What the computer does is make your work easier."</p>
 <hr/>
 
 <div align="center"><h3><b>Languages</b></h3></div>                                                  <div align="center">                                                                               
