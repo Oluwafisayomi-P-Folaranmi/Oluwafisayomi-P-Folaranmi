@@ -8,11 +8,15 @@
 <hr/>
 
 <div align="center"><h3><b>Languages</b></h3></div>
-<div align="center">                                                                               
-  <!-- C++ -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;                                                    
+<div align="center">
   <!-- Java -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
+  <!-- Python -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <!-- JavaScript -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+
   <!-- SQL -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="50"/>&nbsp;
   <!-- HTML -->
@@ -33,8 +37,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="50"/>                                                             
   <!-- Github -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github"  width="40" height="40"/>&nbsp;
-  <!-- Android -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"  title="Android" alt="Android" width="40" height="40"/>&nbsp;
 </div>
 
 <hr/> 
