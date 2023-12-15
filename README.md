@@ -39,8 +39,13 @@
 ```java
 /**
  * Java
+ * 
+ * Class: MessageSecondLine
+ * Author: Oluwafisayomi Posi Folaranmi
+ * Date: 15/9/2021
  **/
-public class MessageSecondLine {
+public class MessageFirstLine {
+
   public static void main(String[] args) {
 
     System.out.println("The computer does not solve your problem,");
@@ -52,17 +57,38 @@ public class MessageSecondLine {
 
 ```python
 # Python
+
+# Function Test: MessageSecondLine
+# Author: Oluwafisayomi Posi Folaranmi
+# Date: 27/12/2021
 messageSecondLine = 'with a good problem-solving process.'
-print(messageSecondLine)
+
+def messageSecondLine(a):
+  return a
+
+# Testing the function
+message = messageSecondLine(messageSecondLine)
+print(message)
 
 ```
 
 ```javascript
 /**
  * JavaScript
+ * 
+ * Function Test: MessageSecondLine
+ * Author: Oluwafisayomi Posi Folaranmi
+ * Date: 01/10/2021
  */
 const messageThirdLine = 'What the computer does is make your work easier.';
-console.log(messageThirdLine);
+
+function messageThirdLine(a)
+  return a;
+
+/**Testing the function
+ */
+let message = messageThirdLine(messageThirdLine)
+console.log(message);
 
 ```
 
