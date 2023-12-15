@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Oluwafisayomi Posi Folaranmi</h1>
-<h3 align="center">...you can call me opf</h3>
 
-<p align="left">Oluwafisayomi is a Nigerian Chemical Engineer. Based in Lagos, Oluwafisayomi has worked in chemical technology, and community water production for two years, and for the past year in software engineering specially in finance.</p>
+<p align="left">Oluwafisayomi is a Nigerian Software Engineer and Chemical Engineer. Based in Lagos, Oluwafisayomi has worked in chemical technology, and community water production for two years, and for the past years in software engineering.</p>
 
-> The computer does not solve your problem, you must do first, with a good problem-solving process. What the computer does is make your work easier.
+```
+The computer does not solve your problem,
+you must do first,
+with a good problem-solving process.
+
+What the computer does is make your work easier.
+```
 
 <hr/>
 
@@ -11,14 +16,12 @@
 <div align="center">
   <!-- Java -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-
   <!-- Python -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <!-- JavaScript -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-
   <!-- SQL -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="SQL"  alt="SQL" width="40" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL"  alt="MYSQL" width="40" height="50"/>&nbsp;
   <!-- HTML -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;                                                         
   <!-- CSS3 -->
