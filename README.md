@@ -2,12 +2,40 @@
 
 <p align="left">Oluwafisayomi is a Nigerian Software Engineer and Chemical Engineer. Based in Lagos, Oluwafisayomi has worked in chemical technology, and community water production for two years, and for the past years in software engineering.</p>
 
+```java
+
+public class MessageSecondLine {
+  public static void main(String[] args) {
+
+    System.out.println("The computer does not solve your problem,");
+    System.out.println("you must do first,")
+  }
+}
+
+```
+
+```python
+
+messageSecondLine = 'with a good problem-solving process.'
+print(messageSecondLine)
+
+```
+
+```javascript
+
+const messageThirdLine = 'What the computer does is make your work easier.';
+console.log(messageThirdLine);
+
+```
+
+**Output:** When *combined*
+
 ```
 The computer does not solve your problem,
 you must do first,
 with a good problem-solving process.
-
 What the computer does is make your work easier.
+
 ```
 
 <hr/>
