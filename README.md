@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oluwafisayomi Posi Folaranmi</h1>
+<h1 align="center" font-family="courier">Hi 👋, I'm Oluwafisayomi Posi Folaranmi</h1>
 
 <p align="left">Oluwafisayomi is an engineering student based in Lagos.</p>
 
