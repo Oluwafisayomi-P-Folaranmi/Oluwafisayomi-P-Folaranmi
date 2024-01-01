@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oluwafisayomi Posi Folaranmi</h1>
 
-<p align="left">Oluwafisayomi is a Nigerian Software Engineer and Chemical Engineer. Based in Lagos, Oluwafisayomi has worked in chemical technology, and community water production for two years, and for the past years in software engineering.</p>
+<p align="left">Oluwafisayomi is an engineering student based in Lagos.</p>
 
 <hr/>
 
