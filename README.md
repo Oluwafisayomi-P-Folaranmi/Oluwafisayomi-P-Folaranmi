@@ -36,8 +36,6 @@
 
 <hr/>
 
-<hr/>
-
 <div align="center"><h3><b>Social Handles:</b></h3></div>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/oluwafisayomi-folaranmi-a6a478205">
