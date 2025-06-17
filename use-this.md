@@ -1,3 +1,5 @@
+Here are some commonly used icons for a `README.md` file using Markdown and HTML:
+
 ### **Programming Languages & Technologies**
 ```md
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,11 +32,5 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ```
 
-
-<div align="center"><h3><b>Social Handles:</b></h3></div>
-<div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/oluwafisayomi-folaranmi-a6a478205">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://twitter.com/oluwafisayomif6?t=UER8RwKUILjncRTlcvPcHQ&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-</div>
+### **Usage in README**
+Simply paste the badge markdown into your `README.md`. If you need specific icons or badges, let me know! 🚀
