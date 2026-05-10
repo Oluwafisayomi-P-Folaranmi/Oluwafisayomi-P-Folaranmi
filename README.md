@@ -12,7 +12,6 @@
 ### **Back-end Frameworks & Technologies**
 
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### **Database Management Systems & Technologies**
 
